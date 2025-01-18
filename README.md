@@ -16,3 +16,11 @@ As the part of NLP Semester Project "Language Generation Using RNNs and Transfor
 - A CSV file with the cleaned content extracted from 10 pages.
 - Original HTML files for each crawled page.
 - Cleaned text files for each crawled page.
+
+
+
+
+  
+![Web_Crawling_Infographic](https://github.com/user-attachments/assets/a8595a8f-b89d-45a9-af55-6a7600eb106e)
+
+  
