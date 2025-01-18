@@ -1,5 +1,5 @@
 # Web-Crawling
-As the part of NLP Semester Project "Language Generation Using RNNs and Transformers", first step was to acquire data using web crawling from government website. 
+As the part of NLP Semester Project "Language Generation Using RNNs and Transformers", first step was to acquire data using web crawling from government website.Here's the key points of what I did.
 ## Key Highlights:
 
 - Used Library Beautiful Soup to crawl data from website "State Bank of Pakistan"
